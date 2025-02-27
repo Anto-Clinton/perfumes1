@@ -11,4 +11,3 @@ if ($conn->connect_error) {
 }
 echo "Database connection successful!";
 ?>
-<h2>hi</h2>
